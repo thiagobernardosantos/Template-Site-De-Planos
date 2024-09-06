@@ -1,0 +1,5 @@
+azul muito escuro: #080076
+azul escuro: #0C2170
+azul marinho: #103B6B
+verde: #1EA358
+branco: #FCFCFC
